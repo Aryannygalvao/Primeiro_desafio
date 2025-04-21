@@ -1,1 +1,2 @@
-# Primeiro_desafio
+# Primeiro desafio
+- fazer os desafios de programação
